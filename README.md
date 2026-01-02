@@ -1,35 +1,64 @@
 Smart Parking Lot Management System (Python)
 A menu-driven Python application that simulates a real-time parking lot management system similar to malls and airports.
 The system handles automatic slot allocation, time-based billing, VIP priority parking, and daily revenue reporting.
+
 📌 Project Overview
+
 This project is designed using pure Python and demonstrates how real-world parking systems manage:
+
 Vehicle entry and exit
+
 Parking slot allocation
+
 Time tracking using datetime
+
 Duration-based billing
+
 VIP reserved slots with priority entry
+
 Daily revenue summary
+
 It is ideal for college mini-projects, lab exams, and viva presentations.
+
+
 ✨ Features
 ✅ Core Features
+
 Automatic parking slot allocation
+
 Real-time entry & exit timestamp tracking
+
 Duration-based billing system
+
 Vehicle exit processing
+
 Slot availability update
+
 Daily revenue report
+
 Menu-driven CLI interface
+
 Input validation & error handling
+
+
 ⭐ Premium Add-Ons Implemented
+
 Variable Pricing Model
+
 First 2 hours → fixed charge
+
 Additional hours → per-hour billing
+
 VIP Reserved Slots
+
 Dedicated VIP parking slots
 VIP vehicles get priority entry
 Normal vehicles cannot occupy VIP slots
+
 Vehicle Type-Based Pricing
+
 Bike, Car, EV, Heavy, VIP
+
 🏗️ System Architecture
 Slot Manager
      ↓
